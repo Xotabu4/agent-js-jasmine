@@ -1,13 +1,13 @@
 # agent-js-jasmine
 Agent for integration Jasmine + Protractor with ReportPortal.     
-[ReportPortal](http://reportportal.io/)<br>
+[ReportPortal](http://reportportal.io/)
 [ReportPortal on GitHub](https://github.com/reportportal)
 
-### How to use<br>
-1. Clone repository with agent using <br>```git clone```<br><br>
-2. Install dependencies <br>```npm install```<br><br>
-3. Put your tests in the root folder.<br><br>
-4. Open conf.example.js and make changes:<br>
+### How to use
+1. Clone repository with agent using ```git clone```
+2. Install dependencies ```npm install```
+3. Put your tests in the root folder.
+4. Open conf.example.js and make changes:
 * Input your ```token```. You can find it in your ReportPortal profile.
 * Input ```YOUR PROJECT NAME```, ```YOUR LAUNCH NAME```.
 * Input path to your tests  ```specs: ['spec.js']```
